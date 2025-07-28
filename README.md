@@ -1,27 +1,7 @@
-# 🐦 Flutter Twitter Clone
+# SocialFlow
 
-A minimal Twitter-style microblogging app built with **Flutter**.
+A new Flutter project.
 
-## ✨ Features
+## Getting Started
 
-- User authentication (login/signup)
-- Create posts  (text and Iamges)
-- View a global tweet feed
-- Like posts
-- Follow/unfollow other users
-- User profile view
-- Darkmode And Light Mode
-- In app messaging 
-
-## 📱 Tech Stack
-
-- **Frontend:** Flutter
-- **Backend:** Firebase (Auth, Firestore, Storage)
--
-
-## 🚀 Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/flutter-twitter-clone.git
-   cd flutter-twitter-clone
+FlutterFlow projects are built to run on the Flutter _stable_ release.
